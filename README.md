@@ -8,7 +8,7 @@ This repository contains my student portfolio for the **Apex Cybersecurity Pathw
 
 ## About Me
 
-I am a student at Apex in the Boulder Valley School District, and I will graduate in [grad year]. After high school, I plan to [plans]. I am interested in [intersests]
+I am a student at Apex in the Boulder Valley School District, and I will graduate in 2027. After high school, I plan to take some community collage courses for my graduation requirements then transfer over to a 4-year collage to get majors in cybersecurity and some sort of mathematics. I am interested in [intersests]
 
 ## Portfolio Contents
 
