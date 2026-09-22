@@ -4,7 +4,7 @@ This repository contains my student portfolio for the **Apex Cybersecurity Pathw
 
 ## Portfolio
 
-**[Open Portfolio](https://USERNAME.github.io/REPOSITORY-NAME/)**
+**[Open Portfolio](https://bloonarius-2.github.io/APEX-portfolio/)**
 
 ## About Me
 

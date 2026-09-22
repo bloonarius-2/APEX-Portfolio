@@ -3,15 +3,15 @@ layout: default
 title: Artifact Name
 ---
 
-# Artifact Name
+# CS lab and Rack Setup
 
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+<p class="artifact-meta">Image | August</p>
 
 ## Summary
 
 [Write a short paragraph explaining what this artifact is and the context in which it was created. Include the larger project or challenge when relevant.]
 
-**Project:** [Project Name]
+**Project:** CS lab and Rack Setup
 
 **My role:** [Briefly describe your individual contribution, especially if this was collaborative work.]
 
