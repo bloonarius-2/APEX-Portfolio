@@ -12,7 +12,7 @@ title: Artifact Name
 
 **Project:** CS lab and Rack Setup
 
-**My role:** [Briefly describe your individual contribution, especially if this was collaborative work.]
+**My role:** Make and present a potential layout for network rack.
 
 ## The Artifact
 

@@ -12,7 +12,7 @@ title: Artifact Name
 
 **Project:** CS lab and Rack Setup
 
-**My role:** [Briefly describe your individual contribution, especially if this was collaborative work.]
+**My role:** Research make a comprehensive document demonstrating my understanding of the difference of networking, cybersecurity, and information assurance.
 
 ## The Artifact
 
@@ -30,8 +30,6 @@ Examples:
 - Prototype photos
 
 ![Description of artifact](ARTIFACT-IMAGE.png)
-
-[View the full artifact](LINK-TO-ARTIFACT)
 
 ## Skills Demonstrated
 
