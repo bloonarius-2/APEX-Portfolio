@@ -12,11 +12,7 @@ title: Three lens field guide
 
 **Project:** Know Your Lenses
 
-<<<<<<< HEAD
 **My role:** Research make a comprehensive document demonstrating my understanding of the difference of networking, cybersecurity, and information assurance.
-=======
-**My role:** I made an infographic about the perspecives of cybersecurity, networking, and information assurace in relation to cyber.
->>>>>>> 3934586 (added image for three_lens_field_guide and basic descriptors in some of it)
 
 ## The Artifact
 
