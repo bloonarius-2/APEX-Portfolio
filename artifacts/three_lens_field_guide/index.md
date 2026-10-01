@@ -1,33 +1,26 @@
 ---
 layout: default
-title: Artifact Name
+title: Three lens field guide
 ---
 
 # Three Lens Field Guide
-<p class="artifact-meta">Image | August</p>
+<p class="artifact-meta">Image | August 2026</p>
 
 ## Summary
 
 [Write a short paragraph explaining what this artifact is and the context in which it was created. Include the larger project or challenge when relevant.]
 
-**Project:** CS lab and Rack Setup
+**Project:** Know Your Lenses
 
+<<<<<<< HEAD
 **My role:** Research make a comprehensive document demonstrating my understanding of the difference of networking, cybersecurity, and information assurance.
+=======
+**My role:** I made an infographic about the perspecives of cybersecurity, networking, and information assurace in relation to cyber.
+>>>>>>> 3934586 (added image for three_lens_field_guide and basic descriptors in some of it)
 
 ## The Artifact
 
-[Embed or link the actual artifact here.]
 
-Examples:
-
-- Image or screenshot
-- PDF
-- GitHub repository
-- Program or interactive experience
-- Video demonstration
-- Network diagram
-- Technical document
-- Prototype photos
 
 ![Description of artifact](ARTIFACT-IMAGE.png)
 

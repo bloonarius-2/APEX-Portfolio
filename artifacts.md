@@ -64,8 +64,8 @@ Each artifact demonstrates technical skills, problem-solving, communication, col
 ---
 ## All Artifacts
 
-## [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+## Three Lens Field Guide
+<p class="artifact-meta">visual guide | October 2026</p>
 
 [Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
 
@@ -89,7 +89,7 @@ Each artifact demonstrates technical skills, problem-solving, communication, col
 <span class="skill-tag">[Skill]</span>
 <span class="skill-tag">[Skill]</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/three_lens_field_guide/)
 
 
 ---
